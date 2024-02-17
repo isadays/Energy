@@ -6,7 +6,5 @@ World Energy Outlook 2023 Free Dataset Includes world aggregated data for all th
 Reference: [World Energy Outlook 2023](https://www.iea.org/data-and-statistics/data-product/world-energy-outlook-2023-free-dataset-2#)
 
 
-- CoalData: CoalDataset.ipynb
-
-We analyze the clean data to validate the coal production, demand, and generation.
+- CoalData: CoalDataset.ipynb : We analyze the clean data to validate the coal production, demand, and generation.
 
