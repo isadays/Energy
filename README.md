@@ -6,5 +6,5 @@ World Energy Outlook 2023 Free Dataset Includes world aggregated data for all th
 Reference: [World Energy Outlook 2023](https://www.iea.org/data-and-statistics/data-product/world-energy-outlook-2023-free-dataset-2#)
 
 
-- CoalData: CoalDataset.ipynb : We analyze and clean the data (xlsx) to validate the coal production, demand, and generation. We convert the xlsx file to csv and then apply clustering and autoencoder methods to deal with categorical data. 
+- CoalData: We analyze and clean the data (xlsx) to validate the coal production, demand, and generation. We convert the xlsx file to csv and then apply clustering and autoencoder methods to deal with categorical data. 
 
